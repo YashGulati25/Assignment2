@@ -1,0 +1,36 @@
+.navbar-default {
+  background-color: #ec8686;
+  border-color: #9a1414;
+  border-bottom-color: #333;
+}
+
+.navbar-default .navbar-nav > .active > a,
+.navbar-default .navbar-nav > .active > a:focus,
+.navbar-default .navbar-nav > .active > a:hover {
+  background-color: #7a1f1f;
+  color: hotpink;
+}
+
+.navbar-default .navbar-nav > li > a:focus,
+.navbar-default .navbar-nav > li > a:hover {
+  color: hotpink;
+}
+
+.navbar-default .navbar-nav > li > a {
+  color: white;
+}
+
+.navbar-default .navbar-brand {
+  color: white;
+}
+
+.navbar-default .navbar-brand:focus,
+.navbar-default .navbar-brand:hover {
+  color: hotpink;
+  background-color: transparent;
+}
+
+body {
+  color: white;
+  background: #333;
+}
